@@ -1,0 +1,12 @@
+{
+  "name": "Pahkina",
+  "version": "1.0.0",
+  "description": "WunderDog puzzle",
+  "main": "solver.js",
+  "dependencies": {
+    "node-png": "^0.4.3"
+  },
+  "scripts": {
+    "start": "node solver"
+  }
+}
