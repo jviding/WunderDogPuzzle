@@ -1,6 +1,6 @@
 # Solution
 
-$ npm install
+$ npm install<br>
 $ npm start
 
 Check out solution.png
